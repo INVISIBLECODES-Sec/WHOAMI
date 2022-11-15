@@ -22,4 +22,5 @@ KNOW ABOUT ME
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=invisiblecode-sec&show_icons=true&locale=en&layout=compact" alt="invisiblecode-sec" /></p>
-![art-legion-anonymous-guy-fawkes-watch-dogs-hd-wallpaper-preview](https://user-images.githubusercontent.com/118267972/201904662-4f199eb8-e588-4550-afc6-ade376c37b44.jpg)
+![39-393913_hacker-png-transparent-png](https://user-images.githubusercontent.com/118267972/201904755-f55b40bc-2a53-49f1-9565-dc1dd1d31dc7.png)
+
